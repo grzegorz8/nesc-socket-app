@@ -1,0 +1,3 @@
+COMPONENT=SocketPTestC
+include $(MAKERULES)
+
